@@ -4,4 +4,8 @@ for i in range(len("helloafksdajfk")):
 
 #lol
 
+
 ##ljkdfjlswacky
+
+
+print("*")
