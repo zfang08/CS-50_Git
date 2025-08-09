@@ -1,5 +1,5 @@
 print("hello world")
-for i in range(len("hello")):
+for i in range(len("helskfkm")):
     print("hello")
 
 #lol
